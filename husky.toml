@@ -1,3 +1,7 @@
 [settings]
-directories = ["./TETSTE-HUSKY", "./laiushdf"]
-auto_add = true
+directories = ["./gateway", "./monolito"] 
+
+[scopes]
+gateway = "gateway/"
+monolito = "monolito/"
+root = "/"
