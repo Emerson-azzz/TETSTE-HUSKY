@@ -1,0 +1,3 @@
+[settings]
+directories = ["./TETSTE-HUSKY"]
+auto_add = true
